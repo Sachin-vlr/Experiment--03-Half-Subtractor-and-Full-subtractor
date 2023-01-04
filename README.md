@@ -40,6 +40,22 @@ RegisterNumber: 22001187
 
 HALF SUBTRACTOR
 
+module expthree(A,B,Diff,Borr);
+input A,B;
+output Diff,Borr;
+assign Diff=(A^B);
+assign Borr=(~A&B);
+endmodule
+
+FULL SUBTRACTOR
+
+module expthreeone(a,b,c,diff,borr);
+input a,b,c;
+output diff,borr;
+assign borr=(~a&(b^c)|(b&c));
+assign diff=(a^b^c);
+endmodule
+```
 
 ## Output:
 
