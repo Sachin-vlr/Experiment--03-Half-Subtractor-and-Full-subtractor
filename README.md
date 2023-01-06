@@ -61,7 +61,9 @@ endmodule
 
 ## Truthtable
 ![truthtable1](https://user-images.githubusercontent.com/113497666/210933363-5c59c0f0-442e-43c2-9e01-1b0c4bb2b15a.png)
-![truthtable1](https://user-images.githubusercontent.com/113497666/210933402-d6acda15-37c2-495b-bb54-7e348b47eaf3.png)
+
+![truthtable2](https://user-images.githubusercontent.com/113497666/210933615-d6c3a19f-9d35-402e-896b-b7f2f86f7659.png)
+
 
 
 ##  RTL realization
