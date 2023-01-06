@@ -73,7 +73,9 @@ endmodule
 
 
 ## Timing diagram 
-![real 2](https://user-images.githubusercontent.com/113497666/210933491-c10ccbf6-2c95-4f91-abe8-bdaf0094af58.png)
+![timing1](https://user-images.githubusercontent.com/113497666/210933780-03d5e8ff-e495-4a1c-aa2e-452dfceee530.png)
+
+
 ![timing2](https://user-images.githubusercontent.com/113497666/210933509-950a8691-fe1d-48f0-8828-4cd90d4a122e.png)
 
 
